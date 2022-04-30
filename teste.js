@@ -1,5 +1,2 @@
 console.log("teste")
 console.log("teste sus")
-console.log("teste sas")
-console.log("teste sas")
-console.log("teste sas")
